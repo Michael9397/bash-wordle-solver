@@ -4,19 +4,19 @@
 # Depending on your linux system, this file might be in a different location
 WordListLocation='/usr/share/dict/words'
 
-InLetters="lu"
-OutLetters="paysngebd"
+InLetters=""
+OutLetters=""
 
 # Put a . if you don't know and the lower case letter if you do
 First="."
-Second="u"
-Third="i"
-Fourth="l"
+Second="."
+Third="."
+Fourth="."
 Fifth="."
 
 # empty if you don't know, and the lower case letter if you do
-NotInFirst="l"
-NotInSecond="l"
+NotInFirst=""
+NotInSecond=""
 NotInThird=""
 NotInFourth=""
 NotInFifth=""
